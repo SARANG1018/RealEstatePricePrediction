@@ -20,18 +20,18 @@ Stacking is a model ensemble technique that combines the predictions of multiple
 To run this project locally, follow these steps:
 
 Clone this repository:
-'''
+```
 git clone https://github.com/your-username/real-estate-price-prediction.git
-'''
+```
 
 Install the required dependencies:
-'''
+```
 pip install -r requirements.txt
-'''
+```
 Execute the main script:
-'''
+```
 python main.py
-'''
+```
 
 # Results
 The performance of the stacked model using Lasso regression as the final estimator was evaluated using various metrics such as mean squared error (MSE) and R-squared (R2) score. The results showed improved prediction accuracy compared to using individual models alone.
