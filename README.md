@@ -1,4 +1,4 @@
-## RealEstatePricePrediction
+### RealEstatePricePrediction
 This project aims to predict real estate prices using the Boston Housing Dataset. Three machine learning models are employed in combination with a stacking technique. The final estimator used for stacking is Lasso regression. 
 
 # Dataset
